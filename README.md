@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1200" height="400" src="https://user-images.githubusercontent.com/14225541/149666045-1a25d0d9-ff81-4379-97e2-cc8466c6a2f3.png" alt="my banner">
+  <img width="1200" height="200" src="https://user-images.githubusercontent.com/14225541/149670143-9cf15afd-4999-4984-b085-f9f2b662f5eb.jpg" alt="my banner">
 </p>
 
 # Hi, my name is Igor dos Santos Tessaro :octocat:
@@ -72,6 +72,9 @@ I'm currently working with node using JavaScript, having all the CI/CD configure
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igortessaro&repo=template-dotnetcore-application&theme=dark)](https://github.com/igortessaro/template-dotnetcore-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igortessaro&repo=adventureworks-person&theme=dark)](https://github.com/igortessaro/adventureworks-person)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igortessaro&repo=api-gateway-ocelot&theme=dark)](https://github.com/igortessaro/api-gateway-ocelot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igortessaro&repo=background-services&theme=dark)](https://github.com/igortessaro/background-services)
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igortessaro&theme=dark&show_icons=true)
