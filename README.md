@@ -3,13 +3,8 @@
 </p>
 
 # Hi, my name is Igor dos Santos Tessaro :octocat:
-I'm a software developer but I love to know a little about each area of IT.
-
-My favorite programming language is c#, because i think it is an extremely powerful language to solve any problem and its syntax is very nice. C# was the first language I used professionally, having to study a lot, maybe that made it my favorite language.
-
-When i'm developing some software using C#, without a doubt Visual Studio is the code editor that I feel most productive using, but when the language changes the editor I use the most is Visual Studio Code.
-
-I'm currently working with node using JavaScript, having all the CI/CD configured within Azure DevOps.
+I'm a software developer but I love to know a little bit about each area of IT.
+My favorite programming language is c#, because I think it's an extremely powerful language to solve any problem and it's syntax is very nice. C# was the first language that I used professionally, having to study a lot, maybe that made it my favorite language.
 
 ### Technologies
 
